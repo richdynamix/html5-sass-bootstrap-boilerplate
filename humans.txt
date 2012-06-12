@@ -1,0 +1,44 @@
+/* TEAM */
+  <your title>: Steven Richardson
+  Site: www.richdynamix.com
+  Twitter: @richdynamix
+  Location: Glasgow UK
+
+/* THANKS */
+  Names (& URL): Paul Irish, Divya Manian, Mathias Bynens, Nicolas Gallagher, 
+  Alex Gibson & Shi Chuan and the H5MBP dev community and team. 
+
+  Thanks to Twitter and its amazing developers Jacob @fat, Mark Otto @mdo
+  For the Bootstrap
+
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: HTML5 Mobile BoilerPLate & SASS enabled Bootstrap for Twitter
+
+
+
+                               -o/-
+                               +oo//-
+                              :ooo+//:
+                             -ooooo///-
+                             /oooooo//:
+                            :ooooooo+//-
+                           -+oooooooo///-
+           -://////////////+oooooooooo++////////////::
+            :+ooooooooooooooooooooooooooooooooooooo+:::-
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-
+                     -:+ooooooooooooooooo+:://////:--
+                       /ooooooooooooooooo+//////:-
+                      -ooooooooooooooooooo////-
+                      /ooooooooo+oooooooooo//:
+                     :ooooooo+/::/+oooooooo+//-
+                    -oooooo/::///////+oooooo///-
+                    /ooo+::://////:---:/+oooo//:
+                   -o+/::///////:-      -:/+o+//-
+                   :-:///////:-            -:/://
+                     -////:-                 --//:
+                       --                       -:

@@ -1,0 +1,45 @@
+/*
+ * Mobile First Responsive BoilerPlate
+ *
+ * Based on a combination of HTML5 Mobile Boilerplate, Bootstrap from Twitter and  Eric A. Meyer Resets
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ *
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+ *
+ * @copyright: www.richdynamix.com
+ * @author: Steven Richardson ( steven@richdynamix.com @richdynamix )
+ * @date: 1st June 2012
+ *
+ */
+ 
+// Responsive
+// For phone and tablet devices
+// -------------------------------------------------------------
+
+// RESPONSIVE CLASSES
+// ------------------
+
+@import "responsive-utilities";
+
+
+// MEDIA QUERIES
+// ------------------
+
+// Phones to portrait tablets and narrow desktops
+@import "responsive-767px-max";
+
+// Tablets to regular desktops
+@import "responsive-768px-979px";
+
+// Large desktops
+@import "responsive-1200px-min";
+
+
+// RESPONSIVE NAVBAR
+// ------------------
+
+// From 979px and below, show a button to toggle navbar contents
+@import "responsive-navbar";
