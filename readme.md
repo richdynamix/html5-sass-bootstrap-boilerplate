@@ -15,7 +15,7 @@ The CSS is primarily the Bootstrap CSS rewritten  to SASS for more flexibility w
 
 ## Quick start
 
-Clone the git repo - `git clone git://github.com/richdynamix/html5-sass-bootstrap-boilerplate.git` - or [download it](https://github.com/richdynamix/html5-sass-bootstrap-boilerplate.git)
+Clone the git repo - `git clone git://github.com/richdynamix/html5-sass-bootstrap-boilerplate.git` - or [download it](https://github.com/richdynamix/html5-sass-bootstrap-boilerplate/zipball/master)
 
 
 Features
